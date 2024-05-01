@@ -1,0 +1,9 @@
+﻿  directory.cpp
+C:\Users\charl\OneDrive\Desktop\Term 1\Advanced programming\Coursework\Submission\AP Coursework\directory.cpp(95,30): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\charl\OneDrive\Desktop\Term 1\Advanced programming\Coursework\Submission\AP Coursework\directory.cpp(157,30): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  file.cpp
+  item.cpp
+  main.cpp
+C:\Users\charl\OneDrive\Desktop\Term 1\Advanced programming\Coursework\Submission\AP Coursework\main.cpp(54,48): warning C4244: 'argument': conversion from '__int64' to 'double', possible loss of data
+  Generating Code...
+  AP Coursework.vcxproj -> C:\Users\charl\OneDrive\Desktop\Term 1\Advanced programming\Coursework\Submission\AP Coursework\x64\Debug\AP Coursework.exe
